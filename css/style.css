@@ -1,0 +1,68 @@
+body{
+    background: #CDCDCD;
+}
+
+.bg-bl{
+    background: #151975;
+}
+
+.bg-mag{
+    background: #FB5FAA;
+}
+
+.bg-grey{
+    background: #343434;
+}
+
+.font-mg{
+    color: #FB5FAA;
+}
+
+.font-white{
+    color: #FFFFFF;
+}
+
+.nav-link-mg.active{
+    color: #fff;
+  background-color: #FB5FAA;
+}
+
+h3{
+    font-size: 40px;
+}
+
+.par-home{
+    font-size: 20px;
+}
+
+.par-24{
+    font-size: 24px;
+}
+
+.p-16{
+    font-size: 18px;
+}
+.text-bl{
+    color: #151975;
+}
+
+.rounded-me{
+    border-radius: 40px;
+}
+
+.price-lab{
+    color: red;
+    text-decoration: line-through;
+}
+
+.col-gap{
+    column-gap: 10px;
+}
+
+a{
+    color: white;
+}
+
+.border-me{
+    border-right: 3px solid white;
+}
